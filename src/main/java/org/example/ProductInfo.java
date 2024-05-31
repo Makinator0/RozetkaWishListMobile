@@ -10,7 +10,6 @@ public class ProductInfo {
         this.price = price;
         this.availability = availability;
     }
-
     public String getName() {
         return name;
     }

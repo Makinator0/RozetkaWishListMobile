@@ -13,8 +13,6 @@ import java.net.MalformedURLException;
 import java.net.URI;
 import java.net.URL;
 import java.time.Duration;
-import java.util.ArrayList;
-
 public class BaseTest {
     protected static AndroidDriver driver;
     static WebDriverWait wait;
